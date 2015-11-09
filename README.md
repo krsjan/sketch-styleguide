@@ -1,6 +1,6 @@
 # Styleguide for Sketch
 
-This styleguide is based on the bootstrap-framework.
+This styleguide is based on the bootstrap-framework. Download it here: https://github.com/krsjan/sketch-styleguide/raw/master/styleguide.sketch
 
 I recommend the following plugins to support the design experience. Spend a minute to get to know these plugins:
 
