@@ -2,7 +2,9 @@
 
 This styleguide is based on the bootstrap-framework. Download it here: https://github.com/krsjan/sketch-styleguide/raw/master/styleguide.sketch
 
-I recommend the following plugins to support the design experience. Spend a minute to get to know these plugins:
+To make Sketch easier, I use the Sketch Toolbox (a Plugin Manager). Get it here: http://sketchtoolbox.com/
+
+I recommend the following plugins to support the design experience, spend a minute to get to know them:
 
 1. Basealign – For vertically aligning text: https://github.com/abynim/BaseAlign
 2. Content Generator Sketch Plugin – To automatically generate content: https://github.com/timuric/Content-generator-sketch-plugin
